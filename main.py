@@ -1,0 +1,1 @@
+Class NewFeature: set.data = []
